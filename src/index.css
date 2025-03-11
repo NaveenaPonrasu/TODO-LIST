@@ -1,0 +1,57 @@
+@import "tailwindcss";
+header{
+  margin:0  10%;
+}
+.headtheme{
+  display: flex;
+  gap: 35%;
+}
+
+/* Apply these styles globally */
+body.standard {
+  background-image: linear-gradient(100deg, #c0c0aa, #062e3f); 
+  color: #141313eb; /* white text */
+}
+
+body.light {
+  background-image: linear-gradient(100deg, #c7d0f8, #c1f7ed); 
+  color: #333; /* dark text */
+}
+
+body.dark {
+  background-image: linear-gradient(100deg, #232526, #414345); 
+  color: #360404e1; /* white text */
+}
+h1.dark{
+  color: rgb(187, 194, 200);
+}
+
+.theme-selector {
+  border: 1px solid #d1dae3;
+  height: 35px;
+  width: 35px;
+}
+
+.standard-theme {
+  background-image: linear-gradient(100deg, #c0c0aa, #062e3f); 
+}
+
+.light-theme {
+  background-image: linear-gradient(100deg, #c7d0f8, #c1f7ed); 
+}
+
+.dark-theme {
+  background-image: linear-gradient(100deg, #232526, #414345); 
+}
+
+.flexrow-container{
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  margin-right: 3%;
+}
+.theme-selector{
+  border: 1px solid #d1dae3;
+  height: 35px;
+  width: 35px;
+}

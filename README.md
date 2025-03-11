@@ -68,16 +68,27 @@ Fast Development Build Tool
 📂 Project Structure
 
 TODO-LIST/
+
 │── src/
+
 │   ├── components/   # Reusable UI Components
+
 │   ├── redux/        # Redux Store & Slices
+
 │   ├── pages/        # Page Components
+
 │   ├── App.tsx       # Main Application Entry
+
 │   ├── main.tsx      # Renders React App
+
 │── public/           # Static Assets
+
 │── package.json      # Dependencies & Scripts
+
 │── tsconfig.json     # TypeScript Configuration
+
 │── tailwind.config.js# Tailwind Configuration
+
 │── vite.config.ts    # Vite Configuration
 
 🤝 Contributing

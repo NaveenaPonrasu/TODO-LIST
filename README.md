@@ -69,13 +69,15 @@ npm run build
 
 TODO-LIST/
 │── src/
-  │   ├── components/   # Reusable UI Components
-  │   ├── hooks/        # Custom Hooks
+
+│   ├── components/   # Reusable UI Components
+│   ├── hooks/        # Custom Hooks
 │   ├── redux/        # Redux Store & Slices
 │   ├── pages/        # Page Components
 │   ├── utils/        # Utility Functions
 │   ├── App.tsx       # Main Application Entry
 │   ├── main.tsx      # Renders React App
+
 │── public/           # Static Assets
 │── package.json      # Dependencies & Scripts
 │── tsconfig.json     # TypeScript Configuration

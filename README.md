@@ -1,50 +1,72 @@
-To-Do List App 📝
-A simple and efficient To-Do List built using React, TypeScript, Redux, and Hooks. This app allows users to manage tasks efficiently with an intuitive interface.
+📝 To-Do List App
 
-Features 🚀
+A simple, efficient, and beautifully designed To-Do List application built using React, TypeScript, Redux, and Hooks. This app provides an intuitive interface to manage your daily tasks effortlessly.
+
+🚀 Features
+
 ✅ Add, Edit, and Delete tasks
+
 ✅ Mark tasks as completed
+
 ✅ Filter tasks (All, Active, Completed)
+
 ✅ Persist tasks using local storage
-✅ Responsive design using Tailwind CSS
 
-Tech Stack 🛠️
-React (UI Framework)
-TypeScript (Static Typing)
-Redux Toolkit (State Management)
-Hooks (useState, useEffect, useReducer, useSelector, useDispatch)
-Tailwind CSS (Styling)
-Vite (Build Tool for fast development)
-Installation & Setup ⚙️
-1️⃣ Clone the repository
+✅ Responsive Design with Tailwind CSS
 
-sh
-Copy
-Edit
-git clone https://github.com/NaveenaPonrasu/TODO-LIST.git
-cd TODO-LIST
-2️⃣ Install dependencies
+✅ Fast Performance with Vite
 
-sh
-Copy
-Edit
-npm install
-3️⃣ Start the development server
+🛠️ Tech Stack
 
-sh
-Copy
-Edit
-npm run dev
-4️⃣ Build the project
+Technology
 
-sh
-Copy
-Edit
-npm run build
-Project Structure 📂
-csharp
-Copy
-Edit
+Purpose
+
+React
+
+UI Framework
+
+TypeScript
+
+Static Typing
+
+Redux Toolkit
+
+State Management
+
+Hooks
+
+useState, useEffect, useReducer, useSelector, useDispatch
+
+Tailwind CSS
+
+Styling & Responsive Design
+
+Vite
+
+Fast Development Build Tool
+
+⚙️ Installation & Setup
+
+1️⃣ Clone the Repository
+
+ git clone https://github.com/NaveenaPonrasu/TODO-LIST.git
+ cd TODO-LIST
+
+2️⃣ Install Dependencies
+
+ npm install
+
+3️⃣ Start the Development Server
+
+ npm run dev
+
+4️⃣ Build the Project
+
+ npm run build
+
+📂 Project Structure
+
 TODO-LIST/
 │── src/
 │   ├── components/   # Reusable UI Components
@@ -57,10 +79,14 @@ TODO-LIST/
 │── tsconfig.json     # TypeScript Configuration
 │── tailwind.config.js# Tailwind Configuration
 │── vite.config.ts    # Vite Configuration
-Contributing 🤝
-Feel free to fork this project, create a new branch, and submit a pull request!
 
-License 📜
-This project is open-source under the MIT License.
+🤝 Contributing
 
-Let me know if you want any modifications! 🚀
+🚀 We welcome contributions! Feel free to fork this repository, create a new branch, and submit a pull request with your improvements.
+
+📜 License
+
+This project is open-source and available under the MIT License.
+
+🎯 Happy Coding & Task Management! 🚀
+
